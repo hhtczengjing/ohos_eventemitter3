@@ -1,0 +1,12 @@
+{
+  "name": "@devzeng/eventemitter3",
+  "version": "5.0.1",
+  "description": "eventemitter3 for HarmonyOS.",
+  "keywords": ["eventemitter3", 'event', 'emitter'],
+  "homepage": "https://github.com/hhtczengjing/ohos_eventemitter3",
+  "repository": "https://github.com/hhtczengjing/ohos_eventemitter3.git",
+  "main": "Index.ets",
+  "author": "zengjing <hhtczengjing@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
